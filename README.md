@@ -1,0 +1,2 @@
+# Title :- Multiplayer Guessing Game
+Discription :- Players input range for the guessing game. Using Python's random module, a number is generated within the specified range. Players take turns guessing the number. If the guess is incorrect, players receive hints to adjust their next guess. The game continues until one player successfully guesses the number. Each player's number of attempts is tracked. Finally, the winner is declared based on the player with the fewest attempts, or in case of a tie, both players are congratulated.
